@@ -1,0 +1,119 @@
+* {
+  margin: 0;
+  padding: 0z
+}
+
+em,i {
+  font-style: normal
+}
+
+li {
+  list-style: none
+}
+
+img {
+  border: 0;
+  vertical-align: middle
+}
+
+button {
+  cursor: pointer
+}
+
+a {
+  color: #666;
+  text-decoration: none
+}
+
+button,input {
+  font-family: Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b\4f53,sans-serif
+}
+
+body {
+  -webkit-font-smoothing: antialiased;
+  background-color: #fff;
+  font: 12px/1.5 Microsoft YaHei,tahoma,arial,Hiragino Sans GB,\\5b8b\4f53,sans-serif;
+  color: #666
+}
+
+.hide,.none {
+  display: none
+}
+.wrapper{
+  width: 1200px;
+  margin: 0 auto;
+}
+.fl{
+  float: left;
+}
+.fr{
+  float: right;
+}
+.clearfix:after {
+  visibility: hidden;
+  clear: both;
+  display: block;
+  content: ".";
+  height: 0
+}
+
+.clearfix {
+  *zoom: 1
+}
+body{background:#fff;margin:0;padding:0;line-height:24px; font-size:14px;font-family:"Microsoft YaHei","微软雅黑",Tahoma,Arial}
+div,p,ul,ol,li,dd,h1,h2,h3,h4,h5,h6,dt,dl,form,input,textarea,blockquote,th,td{padding:0;margin:0; }
+label {cursor:pointer}
+h1,h2,h3,h4,h5,h6{font-size:16px; font-weight:400}
+ul,ol{list-style:none}
+em,i { font-style:normal}
+a{ color:#333;text-decoration:none;}
+img{ border:none}
+table, th, td {border-collapse: collapse;border-spacing: 0}
+.tc{text-align:center}
+.tl{text-align:left} 
+.txj{text-align: justify;color:gray}
+.tr{text-align:right}
+.fb{font-weight:bold}
+.cutFont{white-space:nowrap;text-overflow:ellipsis;overflow:hidden;}
+.blue,a.blue{ color:#157ff6}
+.brown  { color:#666}
+.gray   { color:#999}
+.green  { color:#2d9b01}
+.orange { color:#ff6400}
+.red{ color:#f00}
+.white,a.white { color:#fff}
+.font12 { font-size:12px}
+.font14 { font-size:14px}
+.font16 { font-size:16px}
+.font18 { font-size:18px}   
+.font22 {font-size: 22px;}
+.fl{float:left}
+.fr{float:right}
+.cl{clear:both}
+.mt5{ margin-top:5px}
+.mt10{ margin-top:10px}
+.mt20{ margin-top:20px}
+.mb5{margin-bottom:5px}
+.mb10{margin-bottom:10px}
+.mb20{ margin-bottom:20px}
+.mb30{ margin-bottom:30px}
+.mr5{ margin-right: 5px }
+.mr10{margin-right: 10px}
+.mr20{margin-right: 20px}
+.pt10{padding-top: 10px;}
+.pt20{padding-top: 20px;}
+.pb5{ padding-bottom: 5px }
+.pb20{ padding-bottom: 20px }
+.clearfix:after{content:"\20";display:block;height:0;clear:both;visibility:hidden}
+.clearfix{*zoom:1}
+.posir{position: relative;}
+.block{display: block;}
+.none{display: none;}
+.wt1000{ width:1000px; margin:0 auto}
+.w220{width: 220px}
+.layout{ width:100%; }
+.bgcolor { background-color:#f5f5f5;}
+.bgGray{background-color: #f2f2f2}
+.bgRed{ background-color: red; }
+
+
